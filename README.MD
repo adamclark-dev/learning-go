@@ -1,1 +1,1 @@
-Just me learning how to us Go
+Just me learning how to use Go
